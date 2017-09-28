@@ -1,0 +1,10 @@
+/Users/jakeoverall/source/codeworks/summer-2017/c-my-grade/bin/Debug/netcoreapp2.0/c-my-grade.deps.json
+/Users/jakeoverall/source/codeworks/summer-2017/c-my-grade/bin/Debug/netcoreapp2.0/c-my-grade.runtimeconfig.json
+/Users/jakeoverall/source/codeworks/summer-2017/c-my-grade/bin/Debug/netcoreapp2.0/c-my-grade.runtimeconfig.dev.json
+/Users/jakeoverall/source/codeworks/summer-2017/c-my-grade/bin/Debug/netcoreapp2.0/c-my-grade.dll
+/Users/jakeoverall/source/codeworks/summer-2017/c-my-grade/bin/Debug/netcoreapp2.0/c-my-grade.pdb
+/Users/jakeoverall/source/codeworks/summer-2017/c-my-grade/obj/Debug/netcoreapp2.0/c-my-grade.csproj.CoreCompileInputs.cache
+/Users/jakeoverall/source/codeworks/summer-2017/c-my-grade/obj/Debug/netcoreapp2.0/c-my-grade.AssemblyInfoInputs.cache
+/Users/jakeoverall/source/codeworks/summer-2017/c-my-grade/obj/Debug/netcoreapp2.0/c-my-grade.AssemblyInfo.cs
+/Users/jakeoverall/source/codeworks/summer-2017/c-my-grade/obj/Debug/netcoreapp2.0/c-my-grade.dll
+/Users/jakeoverall/source/codeworks/summer-2017/c-my-grade/obj/Debug/netcoreapp2.0/c-my-grade.pdb

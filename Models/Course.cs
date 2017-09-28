@@ -10,8 +10,6 @@ namespace c_my_grade.Models
 
 
         //RELATIONSHIP LETS SAVE PREREQS 
-
-        public List<Student> Students { get; set; }
         public List<Assignment> Assignments { get; set; }
 
     }   

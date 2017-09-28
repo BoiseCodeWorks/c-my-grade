@@ -9,10 +9,9 @@ namespace c_my_grade.Models
         public string Email { get; set; }
         public float GPA { get; set; }
 
-
         // RELATIONSHIPS
-        public List<Course> Courses { get; set; }
-        public List<Submission> Submissions { get; set; }
+        public List<Course> Courses { get; set; } = new List<Course>();
+        public List<Submission> Submissions { get; set; } = new List<Submission>();
 
 
         public void CalculateGPA()
